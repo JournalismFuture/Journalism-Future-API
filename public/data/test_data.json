@@ -13,7 +13,7 @@
 				"middlename": "",
 				"birthdate": "25.06.1998",
 				"email": "leon-erath@hotmail.de",
-				"imagePath":"some Path"
+				"imagePath":"http://192.168.1.106:3000/data/images/author3.jpg"
 
 			},
 			"latitude": 40.7643971,
@@ -31,7 +31,7 @@
 				"middlename": "",
 				"birthdate": "25.06.1998",
 				"email": "leon-erath@hotmail.de",
-				"imagePath":"some Path"
+				"imagePath":"http://192.168.1.106:3000/data/images/author1.jpg"
 
 			},
 			"latitude": 40.70463334,
@@ -50,12 +50,13 @@
 				"middlename": "",
 				"birthdate": "25.06.1998",
 				"email": "leon-erath@hotmail.de",
-				"imagePath":"some Path"
+				"imagePath":"http://192.168.1.106:3000/data/images/author4.jpg"
 
 			},
 			"latitude": 40.75510267,
 			"longitude": -73.97498696
 		},
+		
 		{
 			"id": 377,
 			"headline": "Something something",
@@ -68,11 +69,29 @@
 				"middlename": "",
 				"birthdate": "25.06.1998",
 				"email": "leon-erath@hotmail.de",
-				"imagePath":"some Path"
+				"imagePath":"http://192.168.1.106:3000/data/images/author3.jpg"
 
 			},
 			"latitude": 40.72243797,
 			"longitude": -74.00566443
+		},
+		{
+			"id": 377,
+			"headline": "Berlin",
+			"subline": "maybe this one",
+			"author": {
+				"id": 1,
+				"fullname": "Leon Erath",
+				"firstname": "Leon",
+				"lastname":"Erath",
+				"middlename": "",
+				"birthdate": "25.06.1998",
+				"email": "leon-erath@hotmail.de",
+				"imagePath":"http://192.168.1.106:3000/data/images/author4.jpg"
+
+			},
+			"latitude": 52.515472,
+			"longitude":  13.410336
 		}
 	]
 }
