@@ -1,0 +1,78 @@
+{
+	"executionTime": "2018-08-07 02:36:37 PM",
+	"politics": [
+		{
+			"id": 281,
+			"headline": "Gericht lehnt Freilassung griechischer Soldaten ab",
+			"subline": "Zwei Soldaten sind vergangene Woche..",
+			"author": {
+				"id": 1,
+				"fullname": "Leon Erath",
+				"firstname": "Leon",
+				"lastname":"Erath",
+				"middlename": "",
+				"birthdate": "25.06.1998",
+				"email": "leon-erath@hotmail.de",
+				"imagePath":"some Path"
+
+			},
+			"latitude": 40.7643971,
+			"longitude": -73.97371465
+		},
+		{
+			"id": 304,
+			"headline": "Ausgleich für die Bayern",
+			"subline": "Das Innenministerium wird nicht so aufgewertet, wie CSU-Chef Horst…",
+			"author": {
+				"id": 1,
+				"fullname": "Leon Erath",
+				"firstname": "Leon",
+				"lastname":"Erath",
+				"middlename": "",
+				"birthdate": "25.06.1998",
+				"email": "leon-erath@hotmail.de",
+				"imagePath":"some Path"
+
+			},
+			"latitude": 40.70463334,
+			"longitude": -74.01361706
+		
+		},
+		{
+			"id": 359,
+			"headline": "Bundesregierung warnt vor Handelskrieg",
+			"sublline": "Die Bundesregierung hält die von…",
+			"author": {
+				"id": 1,
+				"fullname": "Leon Erath",
+				"firstname": "Leon",
+				"lastname":"Erath",
+				"middlename": "",
+				"birthdate": "25.06.1998",
+				"email": "leon-erath@hotmail.de",
+				"imagePath":"some Path"
+
+			},
+			"latitude": 40.75510267,
+			"longitude": -73.97498696
+		},
+		{
+			"id": 377,
+			"headline": "Something something",
+			"subline": "maybe this one",
+			"author": {
+				"id": 1,
+				"fullname": "Leon Erath",
+				"firstname": "Leon",
+				"lastname":"Erath",
+				"middlename": "",
+				"birthdate": "25.06.1998",
+				"email": "leon-erath@hotmail.de",
+				"imagePath":"some Path"
+
+			},
+			"latitude": 40.72243797,
+			"longitude": -74.00566443
+		}
+	]
+}

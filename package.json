@@ -1,0 +1,15 @@
+{
+  "name": "journalism-future-server",
+  "version": "1.0.0",
+  "description": "server for the project \"journalism future\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Leon Erath",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
