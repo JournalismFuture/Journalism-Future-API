@@ -17,64 +17,74 @@
 
 			},
 			"latitude": 40.7643971,
-			"longitude": -73.97371465
-		},
-		{
-			"id": 304,
-			"headline": "Ausgleich für die Bayern",
-			"subline": "Das Innenministerium wird nicht so aufgewertet, wie CSU-Chef Horst…",
-			"author": {
-				"id": 1,
-				"fullname": "Leon Erath",
-				"firstname": "Leon",
-				"lastname":"Erath",
-				"middlename": "",
-				"birthdate": "25.06.1998",
-				"email": "leon-erath@hotmail.de",
-				"imagePath":"http://192.168.1.106:3000/data/images/author1.jpg"
-
-			},
-			"latitude": 40.70463334,
-			"longitude": -74.01361706
+			"longitude": -73.97371465,
+			"story":[
+				{
+					"story_id": 304,
+					"element":1,
+					"timestamp":"25.0.2018 13:44:33",
+					"headline": "Ausgleich für die Bayern",
+					"content": "Das Innenministerium wird nicht so aufgewertet, wie CSU-Chef Horst…",
+					"latitude": 40.70463334,
+					"longitude": -74.01361706,
+					"author": {
+						"id": 1,
+						"fullname": "Leon Erath",
+						"firstname": "Leon",
+						"lastname":"Erath",
+						"middlename": "",
+						"birthdate": "25.06.1998",
+						"email": "leon-erath@hotmail.de",
+						"imagePath":"http://192.168.1.106:3000/data/images/author1.jpg"
 		
-		},
-		{
-			"id": 359,
-			"headline": "Bundesregierung warnt vor Handelskrieg",
-			"sublline": "Die Bundesregierung hält die von…",
-			"author": {
-				"id": 1,
-				"fullname": "Leon Erath",
-				"firstname": "Leon",
-				"lastname":"Erath",
-				"middlename": "",
-				"birthdate": "25.06.1998",
-				"email": "leon-erath@hotmail.de",
-				"imagePath":"http://192.168.1.106:3000/data/images/author4.jpg"
+					}
+				
+				},
+				{
+					"story_id": 359,
+					"element":2,
+					"timestamp":"25.0.2018 13:44:33",
+					"headline": "Bundesregierung warnt vor Handelskrieg",
+					"content": "Die Bundesregierung hält die von…",
+					"latitude": 40.75510267,
+					"longitude": -73.97498696,
+					"author": {
+						"id": 1,
+						"fullname": "Leon Erath",
+						"firstname": "Leon",
+						"lastname":"Erath",
+						"middlename": "",
+						"birthdate": "25.06.1998",
+						"email": "leon-erath@hotmail.de",
+						"imagePath":"http://192.168.1.106:3000/data/images/author4.jpg"
+		
+					}
+				},
+				
+				{
+					"id": 377,
+					"element":33,
+					"timestamp":"25.0.2018 13:44:33",
+					"headline": "Something something",
+					"subline": "maybe this one",
+					"latitude": 40.72243797,
+					"longitude": -74.00566443,
+					"author": {
+						"id": 1,
+						"fullname": "Leon Erath",
+						"firstname": "Leon",
+						"lastname":"Erath",
+						"middlename": "",
+						"birthdate": "25.06.1998",
+						"email": "leon-erath@hotmail.de",
+						"imagePath":"http://192.168.1.106:3000/data/images/author3.jpg"
+		
+					}
+				}
 
-			},
-			"latitude": 40.75510267,
-			"longitude": -73.97498696
+			]
 		},
 		
-		{
-			"id": 377,
-			"headline": "Something something",
-			"subline": "maybe this one",
-			"author": {
-				"id": 1,
-				"fullname": "Leon Erath",
-				"firstname": "Leon",
-				"lastname":"Erath",
-				"middlename": "",
-				"birthdate": "25.06.1998",
-				"email": "leon-erath@hotmail.de",
-				"imagePath":"http://192.168.1.106:3000/data/images/author3.jpg"
-
-			},
-			"latitude": 40.72243797,
-			"longitude": -74.00566443
-		},
 		{
 			"id": 377,
 			"headline": "Berlin",
@@ -91,7 +101,98 @@
 
 			},
 			"latitude": 52.515472,
-			"longitude":  13.410336
+			"longitude":  13.410336,
+			"story":[
+				{
+					"story_id": 33,
+					"element":1,
+					"timestamp":"25.0.2018 13:44:33",
+					"headline": "What is going on?",
+					"content": "Lorem ipsum Lorem Ipsum",
+					"latitude": 51.323664,
+					"longitude":  12.376573,
+					"author": {
+						"id": 1,
+						"fullname": "Leon Erath",
+						"firstname": "Leon",
+						"lastname":"Erath",
+						"middlename": "",
+						"birthdate": "25.06.1998",
+						"email": "leon-erath@hotmail.de",
+						"imagePath":"http://192.168.1.106:3000/data/images/author4.jpg"
+
+					}
+				},
+				{
+					"story_id": 41,
+					"element":2,
+					"timestamp":"25.0.2018 13:44:33",
+					"headline": "Kanzlerin Merkel sagt diese und jenes",
+					"content": "Lorem Ipsum Lorem Upsum",
+					"latitude": 52.520042,
+					"longitude":  13.369918,
+					"author": {
+						"id": 1,
+						"fullname": "Leon Erath",
+						"firstname": "Leon",
+						"lastname":"Erath",
+						"middlename": "",
+						"birthdate": "25.06.1998",
+						"email": "leon-erath@hotmail.de",
+						"imagePath":"http://192.168.1.106:3000/data/images/author4.jpg"
+
+					}
+				},
+				{
+					"story_id": 42,
+					"element":3,
+					"timestamp":"25.0.2018 13:44:33",
+					"headline": "tatata",
+					"content": "allalalaa",
+					"latitude": 51.520042,
+					"longitude":  14.069918,
+					"author": {
+						"id": 1,
+						"fullname": "Leon Erath",
+						"firstname": "Leon",
+						"lastname":"Erath",
+						"middlename": "",
+						"birthdate": "25.06.1998",
+						"email": "leon-erath@hotmail.de",
+						"imagePath":"http://192.168.1.106:3000/data/images/author4.jpg"
+
+					}
+				}
+
+			],
+			"polylines":[
+				{
+					"id":1, 
+					"coordinates":[
+						{	"latitude": 51.323664,
+							"longitude":  12.376573
+						},
+						{
+							"latitude": 52.520042,
+							"longitude":  13.369918
+						}
+					]	
+				},
+				{
+					"id":2, 
+					"coordinates":[
+						{
+							"latitude": 52.520042,
+							"longitude":  13.369918
+						},
+						{
+							"latitude": 51.520042,
+							"longitude": 14.069918
+						}
+						
+					]	
+				}
+			]
 		}
 	]
 }
