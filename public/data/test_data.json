@@ -82,6 +82,9 @@
 					}
 				}
 
+			],
+			"polylines":[
+				
 			]
 		},
 		
@@ -108,7 +111,7 @@
 					"element":1,
 					"timestamp":"25.0.2018 13:44:33",
 					"headline": "What is going on?",
-					"content": "Lorem ipsum Lorem Ipsum",
+					"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut facilisis lorem, sed interdum erat. Etiam maximus, eros ut finibus semper, ex massa luctus nunc, sed suscipit nulla nulla convallis mauris. Nunc vitae sapien velit. Duis at purus mi. Aliquam consequat porttitor leo, id iaculis elit tristique vel. Nam malesuada orci consequat felis sodales congue. Donec vitae nisl urna. Donec vel laoreet purus, sed rhoncus nisl. Phasellus cursus est sit amet est convallis, eu aliquam urna dignissim. Nulla efficitur, urna ac condimentum euismod, arcu neque euismod erat, porta semper lectus ligula sed dui. Curabitur tellus arcu, vehicula sit amet lacinia id, faucibus vel risus.Fusce eu dui maximus, facilisis ex vitae, ornare orci. Suspendisse ac pharetra sem, nec scelerisque arcu. Donec aliquam dictum enim, id egestas risus rhoncus nec. Curabitur consectetur ex diam, sit amet egestas tortor bibendum nec. Nullam dignissim efficitur leo non ornare. Curabitur vitae urna enim. Curabitur consectetur, risus imperdiet mollis fermentum, neque enim volutpat ipsum, a consequat diam lorem commodo arcu. Fusce lobortis elit vitae augue scelerisque, eleifend sollicitudin quam tristique. Pellentesque placerat, erat a porta fermentum, lacus lorem sodales orci, nec pharetra massa lacus vitae enim. Sed sed purus accumsan, dictum nunc non, congue ligula. Etiam aliquam, leo quis ornare ultricies, ligula ante tempor magna, vitae mollis turpis nibh quis metus. Vivamus a nulla neque.",
 					"latitude": 51.323664,
 					"longitude":  12.376573,
 					"author": {
