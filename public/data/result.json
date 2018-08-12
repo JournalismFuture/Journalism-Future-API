@@ -1,0 +1,302 @@
+[
+	{
+		"views": 0,
+		"tag": [],
+		"story": [
+			{
+				"_id": "5b702c898ce3e53d2d3847a1",
+				"position": 1,
+				"timestamp": "2018-08-12T12:48:09.005Z",
+				"headline": "What is going on?",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut facilisis lorem, sed interdum erat. Etiam maximus, eros ut finibus semper, ex massa luctus nunc, sed suscipit nulla nulla convallis mauris. Nunc vitae sapien velit. Duis at purus mi. Aliquam consequat porttitor leo, id iaculis elit tristique vel. Nam malesuada orci consequat felis sodales congue. Donec vitae nisl urna. Donec vel laoreet purus, sed rhoncus nisl. Phasellus cursus est sit amet est convallis, eu aliquam urna dignissim. Nulla efficitur, urna ac condimentum euismod, arcu neque euismod erat, porta semper lectus ligula sed dui. Curabitur tellus arcu, vehicula sit amet lacinia id, faucibus vel risus.Fusce eu dui maximus, facilisis ex vitae, ornare orci. Suspendisse ac pharetra sem, nec scelerisque arcu. Donec aliquam dictum enim, id egestas risus rhoncus nec. Curabitur consectetur ex diam, sit amet egestas tortor bibendum nec. Nullam dignissim efficitur leo non ornare. Curabitur vitae urna enim. Curabitur consectetur, risus imperdiet mollis fermentum, neque enim volutpat ipsum, a consequat diam lorem commodo arcu. Fusce lobortis elit vitae augue scelerisque, eleifend sollicitudin quam tristique. Pellentesque placerat, erat a porta fermentum, lacus lorem sodales orci, nec pharetra massa lacus vitae enim. Sed sed purus accumsan, dictum nunc non, congue ligula. Etiam aliquam, leo quis ornare ultricies, ligula ante tempor magna, vitae mollis turpis nibh quis metus. Vivamus a nulla neque.",
+				"latitude": 51.323664,
+				"longitude": 12.376573,
+				"author": {
+					"permission": 0,
+					"type": 0,
+					"_id": "5b70156c73953e344c3993cf",
+					"email": "leon-erath@hotmail.de",
+					"fullname": "Leon Erath",
+					"firstname": "Leon",
+					"lastname": "Erath",
+					"middlename": "Arne",
+					"birthdate": "25.06.1998",
+					"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+					"__v": 0
+				},
+				"__v": 0
+			},
+			{
+				"_id": "5b702c898ce3e53d2d3847a2",
+				"position": 2,
+				"timestamp": "2018-08-12T12:48:09.012Z",
+				"headline": "Kanzlerin Merkel sagt diese und jenes",
+				"content": "Lorem Ipsum Lorem Upsum",
+				"latitude": 52.520042,
+				"longitude": 13.369918,
+				"author": {
+					"permission": 0,
+					"type": 0,
+					"_id": "5b70156c73953e344c3993cf",
+					"email": "leon-erath@hotmail.de",
+					"fullname": "Leon Erath",
+					"firstname": "Leon",
+					"lastname": "Erath",
+					"middlename": "Arne",
+					"birthdate": "25.06.1998",
+					"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+					"__v": 0
+				},
+				"__v": 0
+			},
+			{
+				"_id": "5b702c898ce3e53d2d3847a3",
+				"position": 3,
+				"timestamp": "2018-08-12T12:48:09.013Z",
+				"headline": "tatata",
+				"content": "allalalaa",
+				"latitude": 51.520042,
+				"longitude": 14.069918,
+				"author": {
+					"permission": 0,
+					"type": 0,
+					"_id": "5b70156c73953e344c3993cf",
+					"email": "leon-erath@hotmail.de",
+					"fullname": "Leon Erath",
+					"firstname": "Leon",
+					"lastname": "Erath",
+					"middlename": "Arne",
+					"birthdate": "25.06.1998",
+					"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+					"__v": 0
+				},
+				"__v": 0
+			}
+		],
+		"polylines": [
+			{
+				"_id": "5b702c898ce3e53d2d3847a4",
+				"position": 1,
+				"coordinates": [
+					{
+						"_id": "5b702c898ce3e53d2d3847a6",
+						"latitude": 51.323664,
+						"longitude": 12.376573
+					},
+					{
+						"_id": "5b702c898ce3e53d2d3847a5",
+						"latitude": 52.520042,
+						"longitude": 13.369918
+					}
+				],
+				"__v": 0
+			},
+			{
+				"_id": "5b702c898ce3e53d2d3847a7",
+				"position": 2,
+				"coordinates": [
+					{
+						"_id": "5b702c898ce3e53d2d3847a9",
+						"latitude": 52.520042,
+						"longitude": 13.369918
+					},
+					{
+						"_id": "5b702c898ce3e53d2d3847a8",
+						"latitude": 51.520042,
+						"longitude": 14.069918
+					}
+				],
+				"__v": 0
+			}
+		],
+		"_id": "5b702c898ce3e53d2d3847aa",
+		"author": {
+			"permission": 0,
+			"type": 0,
+			"_id": "5b70156c73953e344c3993cf",
+			"email": "leon-erath@hotmail.de",
+			"fullname": "Leon Erath",
+			"firstname": "Leon",
+			"lastname": "Erath",
+			"middlename": "Arne",
+			"birthdate": "25.06.1998",
+			"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+			"__v": 0
+		},
+		"headline": "Berlin",
+		"subline": "Berlin",
+		"category": "politics",
+		"latitude": 52.515472,
+		"longitude": 13.410336,
+		"__v": 0
+	},
+	{
+		"views": 0,
+		"tag": [],
+		"story": [
+			{
+				"_id": "5b702dc9b3ebe83d6956e188",
+				"position": 1,
+				"timestamp": "2018-08-12T12:53:29.844Z",
+				"headline": "Ausgleich für die Bayern",
+				"content": "Das Innenministerium wird nicht so aufgewertet, wie CSU-Chef Horst…",
+				"latitude": 40.70463334,
+				"longitude": -74.01361706,
+				"author": {
+					"permission": 0,
+					"type": 0,
+					"_id": "5b70156c73953e344c3993cf",
+					"email": "leon-erath@hotmail.de",
+					"fullname": "Leon Erath",
+					"firstname": "Leon",
+					"lastname": "Erath",
+					"middlename": "Arne",
+					"birthdate": "25.06.1998",
+					"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+					"__v": 0
+				},
+				"__v": 0
+			},
+			{
+				"_id": "5b702dc9b3ebe83d6956e189",
+				"position": 2,
+				"timestamp": "2018-08-12T12:53:29.849Z",
+				"headline": "Bundesregierung warnt vor Handelskrieg",
+				"content": "Die Bundesregierung hält die von…",
+				"latitude": 40.75510267,
+				"longitude": -73.97498696,
+				"author": {
+					"permission": 0,
+					"type": 0,
+					"_id": "5b70156c73953e344c3993cf",
+					"email": "leon-erath@hotmail.de",
+					"fullname": "Leon Erath",
+					"firstname": "Leon",
+					"lastname": "Erath",
+					"middlename": "Arne",
+					"birthdate": "25.06.1998",
+					"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+					"__v": 0
+				},
+				"__v": 0
+			}
+		],
+		"polylines": [],
+		"_id": "5b702dc9b3ebe83d6956e18b",
+		"author": {
+			"permission": 0,
+			"type": 0,
+			"_id": "5b70156c73953e344c3993cf",
+			"email": "leon-erath@hotmail.de",
+			"fullname": "Leon Erath",
+			"firstname": "Leon",
+			"lastname": "Erath",
+			"middlename": "Arne",
+			"birthdate": "25.06.1998",
+			"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+			"__v": 0
+		},
+		"headline": "Gericht lehnt Freilassung griechischer Soldaten ab",
+		"subline": "Gericht lehnt Freilassung griechischer Soldaten ab",
+		"category": "Politics",
+		"latitude": 40.7643971,
+		"longitude": -73.97371465,
+		"__v": 0
+	},
+	{
+		"views": 0,
+		"tag": [],
+		"story": [
+			{
+				"_id": "5b702deccc18443ddb57f823",
+				"position": 1,
+				"timestamp": "2018-08-12T12:54:04.621Z",
+				"headline": "Ausgleich für die Bayern",
+				"content": "Das Innenministerium wird nicht so aufgewertet, wie CSU-Chef Horst…",
+				"latitude": 40.70463334,
+				"longitude": -74.01361706,
+				"author": {
+					"permission": 0,
+					"type": 0,
+					"_id": "5b70156c73953e344c3993cf",
+					"email": "leon-erath@hotmail.de",
+					"fullname": "Leon Erath",
+					"firstname": "Leon",
+					"lastname": "Erath",
+					"middlename": "Arne",
+					"birthdate": "25.06.1998",
+					"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+					"__v": 0
+				},
+				"__v": 0
+			},
+			{
+				"_id": "5b702deccc18443ddb57f824",
+				"position": 2,
+				"timestamp": "2018-08-12T12:54:04.628Z",
+				"headline": "Bundesregierung warnt vor Handelskrieg",
+				"content": "Die Bundesregierung hält die von…",
+				"latitude": 40.75510267,
+				"longitude": -73.97498696,
+				"author": {
+					"permission": 0,
+					"type": 0,
+					"_id": "5b70156c73953e344c3993cf",
+					"email": "leon-erath@hotmail.de",
+					"fullname": "Leon Erath",
+					"firstname": "Leon",
+					"lastname": "Erath",
+					"middlename": "Arne",
+					"birthdate": "25.06.1998",
+					"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+					"__v": 0
+				},
+				"__v": 0
+			},
+			{
+				"_id": "5b702deccc18443ddb57f825",
+				"position": 3,
+				"timestamp": "2018-08-12T12:54:04.628Z",
+				"headline": "Something something",
+				"content": "maybe this one",
+				"latitude": 40.72243797,
+				"longitude": -74.00566443,
+				"author": {
+					"permission": 0,
+					"type": 0,
+					"_id": "5b70156c73953e344c3993cf",
+					"email": "leon-erath@hotmail.de",
+					"fullname": "Leon Erath",
+					"firstname": "Leon",
+					"lastname": "Erath",
+					"middlename": "Arne",
+					"birthdate": "25.06.1998",
+					"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+					"__v": 0
+				},
+				"__v": 0
+			}
+		],
+		"polylines": [],
+		"_id": "5b702deccc18443ddb57f826",
+		"author": {
+			"permission": 0,
+			"type": 0,
+			"_id": "5b70156c73953e344c3993cf",
+			"email": "leon-erath@hotmail.de",
+			"fullname": "Leon Erath",
+			"firstname": "Leon",
+			"lastname": "Erath",
+			"middlename": "Arne",
+			"birthdate": "25.06.1998",
+			"imagePath": "http://192.168.1.106:3000/data/images/author4.jpg",
+			"__v": 0
+		},
+		"headline": "Gericht lehnt Freilassung griechischer Soldaten ab",
+		"subline": "Gericht lehnt Freilassung griechischer Soldaten ab",
+		"category": "Politics",
+		"latitude": 40.7643971,
+		"longitude": -73.97371465,
+		"__v": 0
+	}
+]
