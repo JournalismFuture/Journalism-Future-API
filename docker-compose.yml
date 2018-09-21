@@ -1,0 +1,19 @@
+version: "2"
+services:
+  app:
+    container_name: journalism-future-express
+    restart: always
+    build: .
+    ports:
+      - "8081:8081"
+    links:
+      - mongo
+  mongo:
+    container_name: journalism-future-database
+    image: mongo
+    volumes:
+      - ./data:/data/db
+    ports:
+      - "27017:27017"
+    logging:
+      driver: "none"
